@@ -375,7 +375,10 @@
 
 </style>
 </head>
+      
+// How do I use a reference to an mp4 file here in line 380 instead of a reference to a webp file?
 <body style="background-image:url('/res/img/site_background.webp')">
+
 <%--<body style="background-image:url('/res/img/site_background.mp4')">--%>
 
 <%
